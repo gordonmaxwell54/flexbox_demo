@@ -1,0 +1,121 @@
+img {
+	max-width: 100%;
+}
+
+
+/*Responsive Layout*/
+
+@media only screen and (min-width:800px) {
+
+}
+
+
+/* Section One CSS */
+
+.section-one {
+	width: 100%;
+	display: flex;
+}
+
+.section-one-left {
+	width: 40%;
+}
+
+.section-one-left-top{
+	width: 100%;
+	height: 400px;
+	background-color: red;
+}
+
+.section-one-left-bottom{
+	width: 100%;
+	height: 400px;
+	background-color: blue;
+}
+
+.section-one-right {
+	width: 60%;
+	height: 800px;
+	background-color: green;
+}
+
+/* Section Two CSS */
+
+.section-two {
+	width: 100%;
+	display: flex;
+}
+
+.section-two-left {
+	width: 33.3%;
+	height: 600px;
+	background-color: lime;
+}
+
+.section-two-middle {
+	width: 33.3%;
+}
+
+.section-two-middle-top {
+	width: 100%;
+	height: 600px;
+	background-color: brown;
+}
+
+.section-two-middle-bottom {
+	width: 100%;
+	height: 600px;
+	background-color: red;
+}
+
+.section-two-right {
+	width: 33.3%
+}
+
+.section-two-right-top {
+	width: 100%;
+	height: 400px;
+	background-color: orange;
+}
+
+.section-two-right-middle {
+	width: 100%;
+	height: 400px;
+	background-color: brown;
+}
+
+.section-two-right-bottom {
+	width: 100%;
+	height: 400px;
+	background-color: grey;
+}
+
+
+/* Section Three CSS */
+
+.section-three {
+	width: 100%;
+	display: flex;
+}
+
+.section-three-left {
+	width: 40%;
+}
+
+.section-three-left-top{
+	width: 100%;
+	height: 400px;
+	background-color: yellow;
+}
+
+.section-three-left-bottom{
+	width: 100%;
+	height: 400px;
+	background-color: aquamarine;
+}
+
+.section-three-right {
+	width: 60%;
+	height: 800px;
+	background-color: pink;
+}
